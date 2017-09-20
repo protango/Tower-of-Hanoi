@@ -1,0 +1,12 @@
+E:\Libraries\Dropbox\RESOURCES\IT\Musical Chairs\bin\Debug\Musical Chairs.exe.config
+E:\Libraries\Dropbox\RESOURCES\IT\Musical Chairs\obj\Debug\Musical Chairs.csprojResolveAssemblyReference.cache
+E:\Libraries\Dropbox\RESOURCES\IT\Musical Chairs\bin\Debug\Musical Chairs.exe
+E:\Libraries\Dropbox\RESOURCES\IT\Musical Chairs\bin\Debug\Musical Chairs.pdb
+E:\Libraries\Dropbox\RESOURCES\IT\Musical Chairs\obj\Debug\Musical Chairs.exe
+E:\Libraries\Dropbox\RESOURCES\IT\Musical Chairs\obj\Debug\Musical Chairs.pdb
+C:\Users\55716\Dropbox\RESOURCES\IT\Musical Chairs\bin\Debug\Musical Chairs.exe.config
+C:\Users\55716\Dropbox\RESOURCES\IT\Musical Chairs\obj\Debug\Musical Chairs.exe
+C:\Users\55716\Dropbox\RESOURCES\IT\Musical Chairs\obj\Debug\Musical Chairs.pdb
+C:\Users\55716\Dropbox\RESOURCES\IT\Musical Chairs\bin\Debug\Musical Chairs.exe
+C:\Users\55716\Dropbox\RESOURCES\IT\Musical Chairs\bin\Debug\Musical Chairs.pdb
+C:\Users\55716\Dropbox\RESOURCES\IT\Musical Chairs\obj\Debug\Musical Chairs.csprojResolveAssemblyReference.cache
